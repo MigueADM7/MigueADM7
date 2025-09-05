@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Miguel Ángel Delgado and I'm a systems engineer, from Colombia</h2>
 
 ###
