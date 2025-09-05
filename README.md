@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Miguel Ángel Delgado from Colombia<br><br>- 🔭 I’m working as a freelancer<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Miguel Ángel Delgado from Colombia<br><br>- 🔭 I’m working as a freelancer<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I 🧑‍💻 **Reinforce my skills** with programming courses and personal projects. 🎧 **Enjoy listening to music** to relax and stay focused. 🏋️‍♂️ **Like to exercise**, like going to the gym.</p>
 
 ###
 
