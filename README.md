@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/m-delgado-m/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="33" alt="linkedin logo" />
   </a>
-  <a href="mailto:migue.adm1105@gmail.com">
+  <a href="mailto:mdelgadom2025@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14336&logoColor=white&labelColor=&style=flat" height="33" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/migue_adm1105/?gsh=bXo4YiY3OWhp4djBZ" target="_blank">
